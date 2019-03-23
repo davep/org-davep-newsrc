@@ -17,7 +17,7 @@
 ;;
 ;; You can always find the latest version of this code at:
 ;;
-;;   <URL:http://www.davep.org/lisp/#org-davep-newsrc>
+;;   <URL:https://github.com/davep/org-davep-newsrc>
 
 ;; Create the newsrc package.
 (defpackage #:org.davep.newsrc
